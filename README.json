@@ -1,0 +1,396 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TouchBarDino",
+          "description": "Chrome dinosaur game on Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-09-30T23:37:52Z",
+            "owner": "yuhuili",
+            "repo": "TouchBarDino",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Space Fight",
+          "description": "A simple, fun game for the MacBook Pro's Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-05-15T13:02:56Z",
+            "owner": "insidegui",
+            "repo": "TouchBarSpaceFight",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Pong",
+          "description": "A modern adaptation of the classic Atari Pong game, right in your Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-01T15:10:16Z",
+            "owner": "ferdinandl007",
+            "repo": "TouchBarPong",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Flappy Birds",
+          "description": "An simplified adaptation of flappy bird on Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-03-16T20:52:53Z",
+            "owner": "Jun0413",
+            "repo": "touchbar-flappy-bird",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Gopher",
+          "description": "A \"Whack-a-gopher\" game on Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-01-25T05:30:39Z",
+            "owner": "Lancerchiang",
+            "repo": "TouchBarGopher",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Games:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TouchBar Demo App",
+          "description": "Demo how the touchbar works on your iPad!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-03-09T07:57:30Z",
+            "owner": "bikkelbroeders",
+            "repo": "TouchBarDemoApp",
+            "stars": 1646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchBar Cheatsheet",
+          "description": "Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-04T02:28:04Z",
+            "owner": "loretoparisi",
+            "repo": "touchbar",
+            "stars": 370
+          }
+        }
+      ],
+      "title": "Demos:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MyTouchbarMyRules",
+          "description": "MTMR lets you configure your own touchbar like you want.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-05-14T22:27:37Z",
+            "owner": "Toxblh",
+            "repo": "MTMR",
+            "stars": 4323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zsh-iterm-touchbar",
+          "description": "ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-28T21:58:58Z",
+            "owner": "iam4x",
+            "repo": "zsh-iterm-touchbar",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "touchbar-systemmonitor",
+          "description": "A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-01T08:37:49Z",
+            "owner": "spagnuolocarmine",
+            "repo": "touchbar-systemmonitor",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "karma-touchbar-reporter",
+          "description": "Display karma test results on the Touch Bar.",
+          "children": []
+        }
+      ],
+      "title": "Utility:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Muse spotify controller",
+          "description": "An open-source Spotify controller with TouchBar support!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-07-02T16:29:39Z",
+            "owner": "xzzz9097",
+            "repo": "Muse",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoinPriceBar",
+          "description": "Cyptocurrency prices on MacBook Touch Bar (Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Ripple, IOTA, Cardano).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-07-28T06:34:10Z",
+            "owner": "T-Pham",
+            "repo": "CoinPriceBar",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTunesTouch",
+          "description": "Displays the currently playing track in the TouchBar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2017-02-20T16:19:19Z",
+            "owner": "jonathanrauch",
+            "repo": "iTunesTouch",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Productivity:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "touchbar_nyancat",
+          "description": "watch nyancat fly across your touchbar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-27T21:38:24Z",
+            "owner": "avatsaev",
+            "repo": "touchbar_nyancat",
+            "stars": 2987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Lemmings",
+          "description": "Lemmings in the Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2019-09-03T11:55:05Z",
+            "owner": "erikolsson",
+            "repo": "Touch-Bar-Lemmings",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchFart",
+          "description": "A fart app for the new Macbook Pro's Touch Bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-02-06T23:16:32Z",
+            "owner": "hungtruong",
+            "repo": "TouchFart",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SL on touch bar",
+          "description": "Run the SL on the touch bar of your MacBook Pro!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-11-16T13:56:59Z",
+            "owner": "NeoCat",
+            "repo": "sl_on_touchbar",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchBar Santa",
+          "description": "Santa Claus is coming to your Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-10-09T17:10:48Z",
+            "owner": "airbyte",
+            "repo": "touchbar_santa",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touch Bar Bar",
+          "description": "A bar app for the new Macbook Pro's Touch Bar!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-11-29T16:45:27Z",
+            "owner": "guidouil",
+            "repo": "TouchBarBar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ten-hour-video-touchbar",
+          "description": "A pointless mac touch bar app which gives you a random 10 hour video upon each request!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-17T23:33:15Z",
+            "owner": "jxom",
+            "repo": "ten-hour-video-touchbar",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Fun:"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "touch-bar-simulator",
+          "description": "Use the Touch Bar on any Mac",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2024-03-06T16:54:05Z",
+            "owner": "sindresorhus",
+            "repo": "touch-bar-simulator",
+            "stars": 1935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fish-apple-touchbar",
+          "description": "Customize your Touch Bar in iTerm2 using fish.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-29T15:56:25Z",
+            "owner": "rodrigobdz",
+            "repo": "fish-apple-touchbar",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchBarLauncher",
+          "description": "Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-10-28T19:45:48Z",
+            "owner": "zats",
+            "repo": "TouchBarLauncher",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XTouchBar",
+          "description": "Better touchbar experience while you are coding with Xcode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-03-23T22:14:35Z",
+            "owner": "DominikBucher12",
+            "repo": "XTouchBar",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TouchBarRecorder",
+          "description": "A simple command line tool to record videos of your Touch Bar.",
+          "children": []
+        }
+      ],
+      "title": "Developer:"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:23.769Z",
+    "original_repository": "z11h/awesome-touchbar",
+    "original_repository_sha": "c67af6f425d67b4e5108b8c149ea6e6466551f3f",
+    "enhanced_repository": "enhansome/enhansome-touchbar",
+    "enhanced_repository_description": null,
+    "title": "awesome-touchbar with stars"
+  }
+}
