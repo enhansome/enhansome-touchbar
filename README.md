@@ -25,7 +25,7 @@ enjoy :)
 ### Games:
 
 * [TouchBarDino](https://github.com/yuhuili/TouchBarDino) ⭐ 454 | 🐛 5 | 🌐 Swift | 📅 2020-09-30 - Chrome dinosaur game on Touch Bar!
-* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 378 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
+* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
 * [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) ⭐ 140 | 🐛 4 | 📅 2020-12-01 - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
 * [Touch Bar Flappy Birds](https://github.com/Jun0413/touchbar-flappy-bird) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2021-03-16 - An simplified adaptation of flappy bird on Touch Bar!
 * [Touch Bar Gopher](https://github.com/Lancerchiang/TouchBarGopher) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2019-01-25 - A "Whack-a-gopher" game on Touch Bar!
@@ -33,11 +33,11 @@ enjoy :)
 ### Demos:
 
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) ⭐ 1,646 | 🐛 29 | 🌐 Objective-C | 📅 2021-03-09 - Demo how the touchbar works on your iPad!
-* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 370 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 369 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,326 | 🐛 204 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,327 | 🐛 204 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⭐ 689 | 🐛 11 | 🌐 Shell | 📅 2022-06-28 - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

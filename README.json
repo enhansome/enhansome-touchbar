@@ -32,7 +32,7 @@
                 "last_commit": "2025-05-15T13:02:56Z",
                 "owner": "insidegui",
                 "repo": "TouchBarSpaceFight",
-                "stars": 378
+                "stars": 377
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2017-01-04T02:28:04Z",
                 "owner": "loretoparisi",
                 "repo": "touchbar",
-                "stars": 370
+                "stars": 369
               }
             }
           ],
@@ -136,7 +136,7 @@
                 "last_commit": "2026-05-14T22:27:37Z",
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4326
+                "stars": 4327
               }
             },
             {
@@ -410,7 +410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:35:56.480Z",
+    "last_updated": "2026-08-21T13:34:54.327Z",
     "original_repository": "z11h/awesome-touchbar",
     "original_repository_id": 73157804,
     "original_repository_sha": "c67af6f425d67b4e5108b8c149ea6e6466551f3f",
