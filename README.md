@@ -33,7 +33,7 @@ enjoy :)
 ### Demos:
 
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) ⭐ 1,646 | 🐛 29 | 🌐 Objective-C | 📅 2021-03-09 - Demo how the touchbar works on your iPad!
-* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 369 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 370 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
 
 ### Utility:
 
@@ -46,7 +46,7 @@ enjoy :)
 
 ### Productivity:
 
-* [Muse spotify controller](https://github.com/xzzz9097/Muse) ⭐ 636 | 🐛 34 | 🌐 Swift | 📅 2019-07-02 - An open-source Spotify controller with TouchBar support!
+* [Muse spotify controller](https://github.com/xzzz9097/Muse) ⭐ 637 | 🐛 34 | 🌐 Swift | 📅 2019-07-02 - An open-source Spotify controller with TouchBar support!
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) ⭐ 311 | 🐛 4 | 🌐 Swift | 📅 2018-07-28 - Cyptocurrency prices on MacBook Touch Bar (Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Ripple, IOTA, Cardano).
 * [iTunesTouch](https://github.com/jonathanrauch/iTunesTouch) ⭐ 12 | 🐛 1 | 🌐 Objective-C | 📅 2017-02-20 - Displays the currently playing track in the TouchBar!
 * [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Puts the ⌘+Tab application menu switcher into your Touch Bar!
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
