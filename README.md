@@ -24,7 +24,7 @@ enjoy :)
 
 ### Games:
 
-* [TouchBarDino](https://github.com/yuhuili/TouchBarDino) ⭐ 454 | 🐛 5 | 🌐 Swift | 📅 2020-09-30 - Chrome dinosaur game on Touch Bar!
+* [TouchBarDino](https://github.com/yuhuili/TouchBarDino) ⭐ 455 | 🐛 5 | 🌐 Swift | 📅 2020-09-30 - Chrome dinosaur game on Touch Bar!
 * [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
 * [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) ⭐ 140 | 🐛 4 | 📅 2020-12-01 - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
 * [Touch Bar Flappy Birds](https://github.com/Jun0413/touchbar-flappy-bird) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2021-03-16 - An simplified adaptation of flappy bird on Touch Bar!
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

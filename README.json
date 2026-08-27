@@ -17,7 +17,7 @@
                 "last_commit": "2020-09-30T23:37:52Z",
                 "owner": "yuhuili",
                 "repo": "TouchBarDino",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -410,9 +410,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:42:21.664Z",
-    "original_repository": "z11h/awesome-touchbar",
-    "original_repository_id": 73157804,
+    "last_updated": "2026-08-27T12:06:42.283Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 73157804,
+      "language": null,
+      "last_commit": "2020-11-17T20:56:45Z",
+      "owner": "z11h",
+      "repo": "awesome-touchbar",
+      "stars": 460
+    },
     "original_repository_sha": "c67af6f425d67b4e5108b8c149ea6e6466551f3f",
     "enhanced_repository": "enhansome/enhansome-touchbar",
     "enhanced_repository_description": null,
