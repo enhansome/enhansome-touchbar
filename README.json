@@ -228,7 +228,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2022-06-28T21:58:58Z",
-                "open_issues": 11,
+                "open_issues": 10,
                 "owner": "iam4x",
                 "repo": "zsh-iterm-touchbar",
                 "stars": 689,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:58:52.471Z",
+    "last_updated": "2026-09-02T16:53:25.419Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
@@ -661,7 +661,7 @@
       "open_issues": 2,
       "owner": "z11h",
       "repo": "awesome-touchbar",
-      "stars": 460,
+      "stars": 461,
       "topics": [
         "awesome-list",
         "awesome-touchbar",
