@@ -32,12 +32,12 @@ enjoy :)
 
 ### Demos:
 
-* [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) ⭐ 1,646 | 🐛 29 | 🌐 Objective-C | 📅 2021-03-09 - Demo how the touchbar works on your iPad!
+* [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) ⭐ 1,645 | 🐛 29 | 🌐 Objective-C | 📅 2021-03-09 - Demo how the touchbar works on your iPad!
 * [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 370 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,328 | 🐛 204 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,329 | 🐛 204 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⭐ 689 | 🐛 10 | 🌐 Shell | 📅 2022-06-28 - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
