@@ -196,7 +196,7 @@
                 "open_issues": 204,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4334,
+                "stars": 4333,
                 "topics": [
                   "applescript",
                   "bar",
@@ -399,7 +399,7 @@
                 "open_issues": 5,
                 "owner": "avatsaev",
                 "repo": "touchbar_nyancat",
-                "stars": 2987,
+                "stars": 2988,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:52:55.196Z",
+    "last_updated": "2026-09-13T16:39:58.598Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
