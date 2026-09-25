@@ -141,7 +141,7 @@
                 "open_issues": 29,
                 "owner": "bikkelbroeders",
                 "repo": "TouchBarDemoApp",
-                "stars": 1645,
+                "stars": 1646,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -196,7 +196,7 @@
                 "open_issues": 206,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4341,
+                "stars": 4344,
                 "topics": [
                   "applescript",
                   "bar",
@@ -399,7 +399,7 @@
                 "open_issues": 6,
                 "owner": "avatsaev",
                 "repo": "touchbar_nyancat",
-                "stars": 2988,
+                "stars": 2989,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:35:02.224Z",
+    "last_updated": "2026-09-25T17:35:05.552Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
@@ -661,7 +661,7 @@
       "open_issues": 2,
       "owner": "z11h",
       "repo": "awesome-touchbar",
-      "stars": 461,
+      "stars": 462,
       "topics": [
         "awesome-list",
         "awesome-touchbar",
