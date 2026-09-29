@@ -37,7 +37,7 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,347 | 🐛 206 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,348 | 🐛 206 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⭐ 689 | 🐛 10 | 🌐 Shell | 📅 2022-06-28 - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -46,7 +46,7 @@ enjoy :)
 
 ### Productivity:
 
-* [Muse spotify controller](https://github.com/xzzz9097/Muse) ⭐ 638 | 🐛 34 | 🌐 Swift | 📅 2019-07-02 - An open-source Spotify controller with TouchBar support!
+* [Muse spotify controller](https://github.com/xzzz9097/Muse) ⭐ 637 | 🐛 34 | 🌐 Swift | 📅 2019-07-02 - An open-source Spotify controller with TouchBar support!
 * [CoinPriceBar](https://github.com/T-Pham/CoinPriceBar) ⭐ 311 | 🐛 4 | 🌐 Swift | 📅 2018-07-28 - Cyptocurrency prices on MacBook Touch Bar (Bitcoin, Bitcoin Cash, Ethereum, Litecoin, Ripple, IOTA, Cardano).
 * [iTunesTouch](https://github.com/jonathanrauch/iTunesTouch) ⭐ 12 | 🐛 1 | 🌐 Objective-C | 📅 2017-02-20 - Displays the currently playing track in the TouchBar!
 * [TouchSwitcher](https://hazeover.com/touchswitcher.html) - Puts the ⌘+Tab application menu switcher into your Touch Bar!
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
