@@ -63,7 +63,7 @@
                 "open_issues": 4,
                 "owner": "ferdinandl007",
                 "repo": "TouchBarPong",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "apple",
                   "macbook-pro",
@@ -399,7 +399,7 @@
                 "open_issues": 6,
                 "owner": "avatsaev",
                 "repo": "touchbar_nyancat",
-                "stars": 2989,
+                "stars": 2988,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:19:49.631Z",
+    "last_updated": "2026-09-30T18:09:37.929Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",

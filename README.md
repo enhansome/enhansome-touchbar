@@ -26,7 +26,7 @@ enjoy :)
 
 * [TouchBarDino](https://github.com/yuhuili/TouchBarDino) ⭐ 455 | 🐛 5 | 🌐 Swift | 📅 2020-09-30 - Chrome dinosaur game on Touch Bar!
 * [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 377 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
-* [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) ⭐ 140 | 🐛 4 | 📅 2020-12-01 - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
+* [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) ⭐ 141 | 🐛 4 | 📅 2020-12-01 - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
 * [Touch Bar Flappy Birds](https://github.com/Jun0413/touchbar-flappy-bird) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2021-03-16 - An simplified adaptation of flappy bird on Touch Bar!
 * [Touch Bar Gopher](https://github.com/Lancerchiang/TouchBarGopher) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2019-01-25 - A "Whack-a-gopher" game on Touch Bar!
 
@@ -54,7 +54,7 @@ enjoy :)
 
 ### Fun:
 
-* [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,989 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
+* [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,988 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
 * [Touch Bar Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) ⭐ 532 | 🐛 9 | 🌐 Swift | 📅 2019-09-03 - Lemmings in the Touch Bar!
 * [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 417 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) ⭐ 57 | 🐛 1 | 🌐 Swift | 📅 2017-11-16 - Run the SL on the touch bar of your MacBook Pro!
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
