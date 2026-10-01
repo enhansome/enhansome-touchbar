@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "yuhuili",
                 "repo": "TouchBarDino",
-                "stars": 455,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -196,7 +196,7 @@
                 "open_issues": 206,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4348,
+                "stars": 4350,
                 "topics": [
                   "applescript",
                   "bar",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T18:09:37.929Z",
+    "last_updated": "2026-10-01T18:35:32.663Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
