@@ -162,7 +162,7 @@
                 "open_issues": 1,
                 "owner": "loretoparisi",
                 "repo": "touchbar",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "apple-macbook",
                   "cheatsheet",
@@ -221,7 +221,7 @@
               "description": "ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Display feedback of terminal in the 🍏 Touchbar",
                 "homepage": null,
                 "id": 88680348,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:47:21.255Z",
+    "last_updated": "2026-10-04T17:05:57.211Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
