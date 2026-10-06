@@ -37,7 +37,7 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,345 | 🐛 206 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,346 | 🐛 206 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⚠️ Archived - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -56,7 +56,7 @@ enjoy :)
 
 * [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,987 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
 * [Touch Bar Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) ⭐ 532 | 🐛 9 | 🌐 Swift | 📅 2019-09-03 - Lemmings in the Touch Bar!
-* [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 417 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
+* [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 416 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) ⭐ 57 | 🐛 1 | 🌐 Swift | 📅 2017-11-16 - Run the SL on the touch bar of your MacBook Pro!
 * [TouchBar Santa](https://github.com/airbyte/touchbar_santa) ⭐ 19 | 🐛 0 | 🌐 Swift | 📅 2023-10-09 - Santa Claus is coming to your Touch Bar!
 * [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2016-11-29 - A bar app for the new Macbook Pro's Touch Bar!
