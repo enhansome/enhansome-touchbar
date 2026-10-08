@@ -196,7 +196,7 @@
                 "open_issues": 206,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4347,
+                "stars": 4348,
                 "topics": [
                   "applescript",
                   "bar",
@@ -399,7 +399,7 @@
                 "open_issues": 6,
                 "owner": "avatsaev",
                 "repo": "touchbar_nyancat",
-                "stars": 2986,
+                "stars": 2985,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -553,7 +553,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "touch-bar-simulator",
-                "stars": 1936,
+                "stars": 1935,
                 "topics": [
                   "app",
                   "macbook-pro",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:05:46.636Z",
+    "last_updated": "2026-10-08T19:02:05.919Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
