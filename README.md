@@ -59,7 +59,7 @@ enjoy :)
 * [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 416 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) ⭐ 57 | 🐛 1 | 🌐 Swift | 📅 2017-11-16 - Run the SL on the touch bar of your MacBook Pro!
 * [TouchBar Santa](https://github.com/airbyte/touchbar_santa) ⭐ 19 | 🐛 0 | 🌐 Swift | 📅 2023-10-09 - Santa Claus is coming to your Touch Bar!
-* [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2016-11-29 - A bar app for the new Macbook Pro's Touch Bar!
+* [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2016-11-29 - A bar app for the new Macbook Pro's Touch Bar!
 * [ten-hour-video-touchbar](https://github.com/jxom/ten-hour-video-touchbar) ⭐ 7 | 🐛 1 | 🌐 JavaScript | 📅 2019-10-17 - A pointless mac touch bar app which gives you a random 10 hour video upon each request!
 
 ### Developer:
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
