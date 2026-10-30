@@ -37,7 +37,7 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,353 | 🐛 205 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,354 | 🐛 205 | 🌐 Swift | 📅 2026-05-14 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⚠️ Archived - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -54,7 +54,7 @@ enjoy :)
 
 ### Fun:
 
-* [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,984 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
+* [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,982 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
 * [Touch Bar Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) ⭐ 533 | 🐛 9 | 🌐 Swift | 📅 2019-09-03 - Lemmings in the Touch Bar!
 * [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 416 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) ⭐ 57 | 🐛 1 | 🌐 Swift | 📅 2017-11-16 - Run the SL on the touch bar of your MacBook Pro!
@@ -67,7 +67,7 @@ enjoy :)
 * [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) ⚠️ Archived - Use the Touch Bar on any Mac
 * [fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) ⭐ 96 | 🐛 0 | 🌐 Shell | 📅 2022-04-29 - Customize your Touch Bar in iTerm2 using [fish](https://fishshell.com).
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) ⭐ 67 | 🐛 1 | 🌐 Swift | 📅 2016-10-28 - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
-* [XTouchBar](https://github.com/DominikBucher12/XTouchBar) ⭐ 45 | 🐛 1 | 🌐 Swift | 📅 2026-03-23 - Better touchbar experience while you are coding with Xcode.
+* [XTouchBar](https://github.com/DominikBucher12/XTouchBar) ⭐ 45 | 🐛 2 | 🌐 Swift | 📅 2026-10-29 - Better touchbar experience while you are coding with Xcode.
 * [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
 
 ***
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
