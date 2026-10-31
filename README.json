@@ -630,8 +630,8 @@
                 "id": 252259731,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T23:01:36Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-30T22:44:52Z",
+                "open_issues": 0,
                 "owner": "DominikBucher12",
                 "repo": "XTouchBar",
                 "stars": 45,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:16:17.173Z",
+    "last_updated": "2026-10-31T17:23:05.128Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
