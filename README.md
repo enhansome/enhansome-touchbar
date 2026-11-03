@@ -56,7 +56,7 @@ enjoy :)
 
 * [touchbar\_nyancat](https://github.com/avatsaev/touchbar_nyancat) ⭐ 2,982 | 🐛 6 | 🌐 Swift | 📅 2024-05-27 - watch nyancat fly across your touchbar!
 * [Touch Bar Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings) ⭐ 533 | 🐛 9 | 🌐 Swift | 📅 2019-09-03 - Lemmings in the Touch Bar!
-* [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 416 | 🐛 5 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
+* [TouchFart](https://github.com/hungtruong/TouchFart) ⭐ 416 | 🐛 4 | 🌐 Swift | 📅 2020-02-06 - A fart app for the new Macbook Pro's Touch Bar.
 * [SL on touch bar](https://github.com/NeoCat/sl_on_touchbar) ⭐ 57 | 🐛 1 | 🌐 Swift | 📅 2017-11-16 - Run the SL on the touch bar of your MacBook Pro!
 * [TouchBar Santa](https://github.com/airbyte/touchbar_santa) ⭐ 19 | 🐛 0 | 🌐 Swift | 📅 2023-10-09 - Santa Claus is coming to your Touch Bar!
 * [Touch Bar Bar](https://github.com/guidouil/TouchBarBar) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2016-11-29 - A bar app for the new Macbook Pro's Touch Bar!
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
