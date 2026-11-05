@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "TouchBarSpaceFight",
-                "stars": 377,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -196,7 +196,7 @@
                 "open_issues": 205,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4353,
+                "stars": 4352,
                 "topics": [
                   "applescript",
                   "bar",
@@ -299,7 +299,7 @@
                 "open_issues": 34,
                 "owner": "xzzz9097",
                 "repo": "Muse",
-                "stars": 637,
+                "stars": 636,
                 "topics": [
                   "applescript",
                   "itunes",
@@ -399,7 +399,7 @@
                 "open_issues": 6,
                 "owner": "avatsaev",
                 "repo": "touchbar_nyancat",
-                "stars": 2982,
+                "stars": 2981,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:05:39.873Z",
+    "last_updated": "2026-11-05T20:19:15.542Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
