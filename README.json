@@ -193,7 +193,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-05-14T22:27:37Z",
-                "open_issues": 205,
+                "open_issues": 207,
                 "owner": "Toxblh",
                 "repo": "MTMR",
                 "stars": 4351,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:52:38.467Z",
+    "last_updated": "2026-11-08T18:07:05.482Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
