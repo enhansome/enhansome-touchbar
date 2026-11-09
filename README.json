@@ -192,11 +192,11 @@
                 "id": 125547624,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-05-14T22:27:37Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-09T09:56:07Z",
+                "open_issues": 204,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4351,
+                "stars": 4350,
                 "topics": [
                   "applescript",
                   "bar",
@@ -553,7 +553,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "touch-bar-simulator",
-                "stars": 1936,
+                "stars": 1935,
                 "topics": [
                   "app",
                   "macbook-pro",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:07:05.482Z",
+    "last_updated": "2026-11-09T22:44:27.751Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
