@@ -192,11 +192,11 @@
                 "id": 125547624,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-09T09:56:07Z",
+                "last_commit": "2026-11-10T21:48:30Z",
                 "open_issues": 204,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4348,
+                "stars": 4350,
                 "topics": [
                   "applescript",
                   "bar",
@@ -438,7 +438,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2020-02-06T23:16:32Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "hungtruong",
                 "repo": "TouchFart",
                 "stars": 416,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:03:14.430Z",
+    "last_updated": "2026-11-11T19:53:26.754Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
