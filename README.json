@@ -196,7 +196,7 @@
                 "open_issues": 204,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4350,
+                "stars": 4352,
                 "topics": [
                   "applescript",
                   "bar",
@@ -258,7 +258,7 @@
                 "open_issues": 3,
                 "owner": "spagnuolocarmine",
                 "repo": "touchbar-systemmonitor",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "cpu-profiling",
                   "electron",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:53:26.754Z",
+    "last_updated": "2026-11-12T20:29:37.746Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",

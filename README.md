@@ -37,9 +37,9 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,350 | 🐛 204 | 🌐 Swift | 📅 2026-11-10 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,352 | 🐛 204 | 🌐 Swift | 📅 2026-11-10 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⚠️ Archived - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
-* [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 262 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
+* [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 263 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
 * [Pock](https://pock.dev/) - Pock. Display macOS Dock in Touch Bar.
 * [karma-touchbar-reporter](https://github.com/cyco/karma-touchbar-reporter) - Display karma test results on the Touch Bar.
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
