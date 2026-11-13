@@ -196,7 +196,7 @@
                 "open_issues": 204,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4352,
+                "stars": 4353,
                 "topics": [
                   "applescript",
                   "bar",
@@ -231,7 +231,7 @@
                 "open_issues": 10,
                 "owner": "iam4x",
                 "repo": "zsh-iterm-touchbar",
-                "stars": 688,
+                "stars": 686,
                 "topics": [
                   "git",
                   "iterm2",
@@ -630,8 +630,8 @@
                 "id": 252259731,
                 "language": "Swift",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T22:44:52Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-13T17:59:02Z",
+                "open_issues": 1,
                 "owner": "DominikBucher12",
                 "repo": "XTouchBar",
                 "stars": 45,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:29:37.746Z",
+    "last_updated": "2026-11-13T20:05:55.338Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",

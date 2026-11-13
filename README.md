@@ -37,7 +37,7 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,352 | 🐛 204 | 🌐 Swift | 📅 2026-11-10 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,353 | 🐛 204 | 🌐 Swift | 📅 2026-11-10 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⚠️ Archived - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 263 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -67,7 +67,7 @@ enjoy :)
 * [touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator) ⚠️ Archived - Use the Touch Bar on any Mac
 * [fish-apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) ⭐ 96 | 🐛 0 | 🌐 Shell | 📅 2022-04-29 - Customize your Touch Bar in iTerm2 using [fish](https://fishshell.com).
 * [TouchBarLauncher](https://github.com/zats/TouchBarLauncher) ⭐ 67 | 🐛 1 | 🌐 Swift | 📅 2016-10-28 - Touch Bar simulator launcher. Requires Xcode 8.1 and macOS 10.12.1!
-* [XTouchBar](https://github.com/DominikBucher12/XTouchBar) ⭐ 45 | 🐛 0 | 🌐 Swift | 📅 2026-10-30 - Better touchbar experience while you are coding with Xcode.
+* [XTouchBar](https://github.com/DominikBucher12/XTouchBar) ⭐ 45 | 🐛 1 | 🌐 Swift | 📅 2026-11-13 - Better touchbar experience while you are coding with Xcode.
 * [TouchBarRecorder](https://github.com/cyco/touchbar-recorder) - A simple command line tool to record videos of your Touch Bar.
 
 ***
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
