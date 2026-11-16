@@ -25,7 +25,7 @@ enjoy :)
 ### Games:
 
 * [TouchBarDino](https://github.com/yuhuili/TouchBarDino) ⭐ 454 | 🐛 5 | 🌐 Swift | 📅 2020-09-30 - Chrome dinosaur game on Touch Bar!
-* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
+* [Touch Bar Space Fight](https://github.com/insidegui/TouchBarSpaceFight) ⭐ 374 | 🐛 1 | 🌐 Swift | 📅 2025-05-15 - A simple, fun game for the MacBook Pro's Touch Bar!
 * [Touch Bar Pong](https://github.com/ferdinandl007/TouchBarPong) ⭐ 141 | 🐛 4 | 📅 2020-12-01 - A modern adaptation of the classic Atari Pong game, right in your Touch Bar!
 * [Touch Bar Flappy Birds](https://github.com/Jun0413/touchbar-flappy-bird) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2021-03-16 - An simplified adaptation of flappy bird on Touch Bar!
 * [Touch Bar Gopher](https://github.com/Lancerchiang/TouchBarGopher) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2019-01-25 - A "Whack-a-gopher" game on Touch Bar!
@@ -37,7 +37,7 @@ enjoy :)
 
 ### Utility:
 
-* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,357 | 🐛 204 | 🌐 Swift | 📅 2026-11-10 - MTMR lets you configure your own touchbar like you want.
+* [MyTouchbarMyRules](https://github.com/Toxblh/MTMR) ⭐ 4,356 | 🐛 201 | 🌐 Swift | 📅 2026-11-15 - MTMR lets you configure your own touchbar like you want.
 * [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) ⚠️ Archived - ZSH plugin to display iTerm2 feedback in the MacbookPro TouchBar (Current directory, git branch & status)!
 * [touchbar-systemmonitor](https://github.com/spagnuolocarmine/touchbar-systemmonitor) ⭐ 263 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-01 - A better simple reactive system monitor on macOS for your MacBook pro. Built with Electron.
 * [BetterTouchTool](https://www.boastr.net/) - BetterTouchTool lets you create your own application-specific shortcuts on the MacbookPro TouchBar.
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

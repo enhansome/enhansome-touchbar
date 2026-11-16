@@ -42,7 +42,7 @@
                 "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "TouchBarSpaceFight",
-                "stars": 376,
+                "stars": 374,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -192,11 +192,11 @@
                 "id": 125547624,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:48:30Z",
-                "open_issues": 204,
+                "last_commit": "2026-11-15T23:50:31Z",
+                "open_issues": 201,
                 "owner": "Toxblh",
                 "repo": "MTMR",
-                "stars": 4357,
+                "stars": 4356,
                 "topics": [
                   "applescript",
                   "bar",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:08:48.355Z",
+    "last_updated": "2026-11-16T22:34:26.052Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
