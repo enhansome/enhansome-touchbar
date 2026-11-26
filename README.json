@@ -162,7 +162,7 @@
                 "open_issues": 1,
                 "owner": "loretoparisi",
                 "repo": "touchbar",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "apple-macbook",
                   "cheatsheet",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:00:18.001Z",
+    "last_updated": "2026-11-26T21:58:31.187Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
@@ -661,7 +661,7 @@
       "open_issues": 4,
       "owner": "z11h",
       "repo": "awesome-touchbar",
-      "stars": 462,
+      "stars": 463,
       "topics": [
         "awesome-list",
         "awesome-touchbar",

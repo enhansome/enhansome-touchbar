@@ -33,7 +33,7 @@ enjoy :)
 ### Demos:
 
 * [TouchBar Demo App](https://github.com/bikkelbroeders/TouchBarDemoApp) ⭐ 1,646 | 🐛 29 | 🌐 Objective-C | 📅 2021-03-09 - Demo how the touchbar works on your iPad!
-* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 371 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
+* [TouchBar Cheatsheet](https://github.com/loretoparisi/touchbar) ⭐ 372 | 🐛 1 | 📅 2017-01-04 - Apple MacBook Pro TouchBar (NSTouchBar) Cheatsheet and Swift examples!
 
 ### Utility:
 
@@ -76,4 +76,4 @@ Want to add anything? Open an issue! (or even better, a PR! :smile:)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
