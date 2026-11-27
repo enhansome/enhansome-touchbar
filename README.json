@@ -141,7 +141,7 @@
                 "open_issues": 29,
                 "owner": "bikkelbroeders",
                 "repo": "TouchBarDemoApp",
-                "stars": 1646,
+                "stars": 1645,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:44:42.806Z"
@@ -192,8 +192,8 @@
                 "id": 125547624,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-15T23:50:31Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-27T11:11:39Z",
+                "open_issues": 201,
                 "owner": "Toxblh",
                 "repo": "MTMR",
                 "stars": 4361,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:58:31.187Z",
+    "last_updated": "2026-11-27T21:41:00.272Z",
     "original_repository_info": {
       "archived": false,
       "description": ":point_right: :star2: delightful macOS resources for your touchbar",
